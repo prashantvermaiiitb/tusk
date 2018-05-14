@@ -8,9 +8,12 @@ Welcome to verma's kitchen of coding.
 
 3) Inheritance coding 
 4) implementation coding 
+5) classes
 
 abstraction 
 polymorphism
 object oriented concepts.
 
-thank you
+thank you for the pantola
+
+Final commit in the master branch.
