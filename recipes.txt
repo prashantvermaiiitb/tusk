@@ -9,4 +9,8 @@ Welcome to verma's kitchen of coding.
 3) Inheritance coding 
 4) implementation coding 
 
+abstraction 
+polymorphism
+object oriented concepts.
+
 thank you
