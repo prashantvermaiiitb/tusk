@@ -10,6 +10,6 @@ Welcome to verma's kitchen of coding.
 4) implementation coding 
 5) classes
 
-thank you
+thank you for the pantola
 
 Final commit in the master branch.
