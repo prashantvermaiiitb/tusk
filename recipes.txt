@@ -10,6 +10,10 @@ Welcome to verma's kitchen of coding.
 4) implementation coding 
 5) classes
 
+abstraction 
+polymorphism
+object oriented concepts.
+
 thank you for the pantola
 
 Final commit in the master branch.
